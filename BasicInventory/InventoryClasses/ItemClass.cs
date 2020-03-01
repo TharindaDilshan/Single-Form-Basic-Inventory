@@ -18,8 +18,8 @@ namespace BasicInventory.InventoryClasses
         public string Date { get; set; }
         public string Quantity { get; set; }
 
-        //Database Connection config*
-        static string myconn = ConfigurationManager.ConnectionStrings[""].ConnectionString;
+        //Database Connection config
+        static string myconn = ConfigurationManager.ConnectionStrings["connstring"].ConnectionString;
 
         //Retrieving from Database
         public DataTable Select()
