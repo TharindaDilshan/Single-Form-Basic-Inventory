@@ -216,15 +216,15 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(114, 358);
+            this.dataGridView1.Location = new System.Drawing.Point(92, 358);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(1230, 477);
+            this.dataGridView1.Size = new System.Drawing.Size(1275, 477);
             this.dataGridView1.TabIndex = 16;
             // 
             // textBoxSearch
             // 
             this.textBoxSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxSearch.Location = new System.Drawing.Point(203, 326);
+            this.textBoxSearch.Location = new System.Drawing.Point(181, 326);
             this.textBoxSearch.Name = "textBoxSearch";
             this.textBoxSearch.ShortcutsEnabled = false;
             this.textBoxSearch.Size = new System.Drawing.Size(337, 26);
@@ -234,7 +234,7 @@
             // 
             this.labelSearch.AutoSize = true;
             this.labelSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelSearch.Location = new System.Drawing.Point(110, 329);
+            this.labelSearch.Location = new System.Drawing.Point(88, 329);
             this.labelSearch.Name = "labelSearch";
             this.labelSearch.Size = new System.Drawing.Size(60, 20);
             this.labelSearch.TabIndex = 17;
