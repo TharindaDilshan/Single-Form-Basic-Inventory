@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\bin\Debug\BasicInventory.exe.config
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\bin\Debug\BasicInventory.exe
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\bin\Debug\BasicInventory.pdb
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.Inventory.resources
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.exe
+C:\Users\Asus\Desktop\GitHub\BasicInventory\BasicInventory\obj\Debug\BasicInventory.pdb
