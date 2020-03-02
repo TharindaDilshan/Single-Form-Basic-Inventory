@@ -98,7 +98,7 @@ namespace BasicInventory.InventoryClasses
             try
             {
                 //SQL Query
-                string sql = "UPDATE tbl_items SET ItemId = @ItemId, ItemName = @ItemName, UnitPrice = @UnitPrice, Quantity = @Quantity, Supplier = @Supplier, Date =  @Date";
+                string sql = "UPDATE tbl_items SET ItemName = @ItemName, UnitPrice = @UnitPrice, Quantity = @Quantity, Supplier = @Supplier, Date =  @Date WHERE ItemId = @ItemId";
                 SqlCommand cmd = new SqlCommand(sql, conn);
 
                 cmd.Parameters.AddWithValue("@ItemId", i.ItemId);
@@ -118,7 +118,7 @@ namespace BasicInventory.InventoryClasses
             }
             catch (Exception e)
             {
-
+                
             }
             finally
             {
