@@ -16,3 +16,7 @@ C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debu
 C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debug\BasicInventory.csproj.GenerateResource.cache
 C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debug\BasicInventory.exe
 C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debug\BasicInventory.pdb
+C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\bin\Debug\BasicInventory.exe.manifest
+C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\bin\Debug\BasicInventory.application
+C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debug\BasicInventory.exe.manifest
+C:\Users\Asus\Desktop\GitHub\Single-Form-Basic-Inventory\BasicInventory\obj\Debug\BasicInventory.application
